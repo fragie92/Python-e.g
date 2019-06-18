@@ -4,7 +4,6 @@ tamamladığım alıştırmalardır...
 
 tl;dr Tutorials
 
-
 Çözmeye çalıştığım problemleri bulduğum kaynaklar;
- 	 https://projecteuler.net/
- 	 https://www.codeabbey.com/
+* https://projecteuler.net/
+* https://www.codeabbey.com/
