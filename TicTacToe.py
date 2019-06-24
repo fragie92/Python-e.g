@@ -1,6 +1,6 @@
 # Listler konusunu pekiştirmek adına yazdığım XOX oyunu.
 # Oyun tam anlamıyla bitmiş bir versiyon değil
-# Örneğin input değerlerinde int karşılığı olmayan bir değer girilmediğinde hata veriyor.
+# Örneğin input'a int. karşılığı olmayan bir değer girildiğinde hata veriyor.
 # Fakat bunları önemsemedim burda amacım listleri kullanmak ve özellikle;
 # [z for z in i if z in o_durumu] gibi for döngüsüyle listeleri nasıl oluşturacağımı anlamak kavramaktı.
 # Keyifli bir öğrenme, pekiştirme süreci geçirdim...
